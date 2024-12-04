@@ -32,7 +32,7 @@ This project is part of the Internet and Web Programming course (4th Semester) c
    Steps to run the application:
    ```bash
    
-   git clone https://github.com/Aryan-Rajesh-Python/Blood-Donation-System.git
-   cd Blood-Donation-System
+   git clone https://github.com/Aryan-Rajesh-Python/Blood-Donation-Management-System.git
+   cd Blood-Donation-Management-System
    npm install
    node server.js
